@@ -1,3 +1,9 @@
 Nuevo archivo para el tutorial de git
 
 en estilos ! 
+
+
+Resolución de problemas 
+Estamos en Main
+
+Cambio para crear conflicto, estamos en la rama master
